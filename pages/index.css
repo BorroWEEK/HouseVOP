@@ -37,3 +37,16 @@
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__title/cards__title.css);
+
+/* Watch */
+@import url(../blocks/watch/watch.css);
+@import url(../blocks/watch/__container/watch__container.css);
+@import url(../blocks/watch/__column/watch__column.css);
+@import url(../blocks/watch/__title/watch__title.css);
+@import url(../blocks/watch/__text/watch__text.css);
+@import url(../blocks/watch/__form/watch__form.css);
+@import url(../blocks/watch/__inputs/watch__inputs.css);
+@import url(../blocks/watch/__input/watch__input.css);
+@import url(../blocks/watch/__btn-field/watch__btn-field.css);
+@import url(../blocks/watch/__warning/watch__warning.css);
+@import url(../blocks/watch/__btn/watch__btn.css);

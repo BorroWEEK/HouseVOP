@@ -1,0 +1,4 @@
+.watch__column:nth-of-type(n+2) {
+  display: flex;
+  align-items: flex-end;
+}

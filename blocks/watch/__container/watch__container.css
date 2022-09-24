@@ -1,0 +1,7 @@
+.watch__container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1110px;
+  display: flex;
+  justify-content: space-between;
+}

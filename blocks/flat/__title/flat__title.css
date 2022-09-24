@@ -1,0 +1,11 @@
+.flat__title {
+  margin: 0;
+  display: block;
+  width: 100%;
+  max-width: 1110px;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  color: var(--pg-gold);
+  font-family: 'Playfair', open-sans;
+}

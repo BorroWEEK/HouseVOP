@@ -20,3 +20,20 @@
 @import url(../blocks/nav/__list/nav__list.css);
 @import url(../blocks/nav/__item/nav__item.css);
 @import url(../blocks/nav/__link/nav__link.css);
+
+/* Place */
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__list/place__list.css);
+@import url(../blocks/place/__item/place__item.css);
+@import url(../blocks/place/__icon/place__icon.css);
+@import url(../blocks/place/__text/place__text.css);
+
+/* Flat */
+@import url(../blocks/flat/flat.css);
+@import url(../blocks/flat/__title/flat__title.css);
+@import url(../blocks/flat/__cards/flat__cards.css);
+
+/* Cards */
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__title/cards__title.css);

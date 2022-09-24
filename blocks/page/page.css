@@ -1,6 +1,8 @@
 .page {
+  margin: 0 auto;
   min-width: 1660px;
   max-width: 1920px;
+  overflow-x: hidden;
   font-family: 'Raleway', open-sans;
   background-color: var(--pg-dark);
 }

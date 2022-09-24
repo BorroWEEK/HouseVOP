@@ -12,7 +12,7 @@
   background-size: cover;
   border: 2px solid transparent;
   color: #ffffff;
-  transition: border-color .7s linear, color .7s linear, transform .7s linear;
+  transition: border-color .7s linear .3s, color .7s linear .3s, transform .7s linear .3s;
   cursor: pointer;
 }
 

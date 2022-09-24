@@ -1,4 +1,5 @@
 .cards__item {
+  position: relative;
   box-sizing: border-box;
   padding: 50px;
   width: 535px;
@@ -11,11 +12,12 @@
   background-size: cover;
   border: 2px solid transparent;
   color: #ffffff;
-  transition: border-color .5s linear, color .5s linear;
+  transition: border-color .7s linear, color .7s linear, transform .7s linear;
   cursor: pointer;
 }
 
 .cards__item:hover {
+  transform: scale(1.02, 1.02) translate(5px, -5px);
   border-color: var(--pg-gold);
   color: var(--pg-gold);
 }

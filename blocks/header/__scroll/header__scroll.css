@@ -1,6 +1,17 @@
+@keyframes scroll-animation {
+  from {
+    top: 0;
+  }
+  to {
+    top: 20px;
+  }
+}
+
 .header__scroll {
+  position: relative;
   width: 40px;
   height: 40px;
   display: block;
   margin: 0 auto 200px auto;
+  animation: scroll-animation 1s linear infinite alternate;
 }

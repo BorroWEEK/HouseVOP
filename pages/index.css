@@ -1,0 +1,22 @@
+/* Vendor */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+/* General */
+@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
+
+/* Header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__scroll/header__scroll.css);
+@import url(../blocks/header/__communication/header__communication.css);
+@import url(../blocks/header/__btn/header__btn.css);
+@import url(../blocks/header/__span/header__span.css);
+
+/* Nav */
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__list/nav__list.css);
+@import url(../blocks/nav/__item/nav__item.css);
+@import url(../blocks/nav/__link/nav__link.css);

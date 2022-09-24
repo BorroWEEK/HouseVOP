@@ -1,0 +1,10 @@
+.header__title {
+  max-width: 556px;
+  margin: 200px auto 100px auto;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  font-family: 'Playfair', open-sans;
+  color: var(--pg-gold);
+}

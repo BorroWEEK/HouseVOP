@@ -1,0 +1,6 @@
+.page {
+  min-width: 1660px;
+  max-width: 1920px;
+  font-family: 'Raleway', open-sans;
+  background-color: var(--pg-dark);
+}

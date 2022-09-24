@@ -1,0 +1,13 @@
+.nav__link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: .05em;
+  color: #ffffff;
+  text-decoration: none;
+  transition: color .5s linear;
+}
+
+.nav__link:hover {
+  color: var(--pg-gold);
+}

@@ -1,0 +1,19 @@
+.media {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.media::before {
+  content: '';
+  position: absolute;
+  width: 418px;
+  height: 282px;
+  left: 1302px;
+  top: 188px;
+  background-image: url(../../../images/four-roman.png);
+  background-repeat: no-repeat;
+  z-index: 1;
+}

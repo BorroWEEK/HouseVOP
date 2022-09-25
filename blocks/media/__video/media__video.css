@@ -1,0 +1,36 @@
+@keyframes video-anime {
+  from {
+    transform: scale(1, 1);
+  }
+  to {
+    transform: scale(1.1, 1.1);
+  }
+}
+
+.media__video {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 0;
+  transition: background-color .5s linear .2s;
+}
+
+.media__video:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.media__video::before {
+  content: '';
+  width: 100px;
+  height: 100px;
+  background-image: url(../../../images/play.svg);
+  background-repeat: no-repeat;
+  cursor: pointer;
+  animation: video-anime 1.5s linear infinite alternate;
+  z-index: 2;
+}

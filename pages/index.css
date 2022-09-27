@@ -55,3 +55,29 @@
 @import url(../blocks/media/media.css);
 @import url(../blocks/media/__container/media__container.css);
 @import url(../blocks/media/__video/media__video.css);
+
+/* Map */
+@import url(../blocks/map/map.css);
+@import url(../blocks/map/__title/map__title.css);
+@import url(../blocks/map/__iframe/map__iframe.css);
+
+/* Quenstion */
+@import url(../blocks/question/question.css);
+@import url(../blocks/question/__content/question__content.css);
+@import url(../blocks/question/__form/question__form.css);
+@import url(../blocks/question/__inputs/question__inputs.css);
+@import url(../blocks/question/__input/question__input.css);
+@import url(../blocks/question/__btn/question__btn.css);
+@import url(../blocks/question/__title/question__title.css);
+
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__nav-item/footer__nav-item.css);
+@import url(../blocks/footer/__contacts/footer__contacts.css);
+@import url(../blocks/footer/paragraph/footer__paragraph.css);
+@import url(../blocks/footer/__mail/footer__mail.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__social-item/footer__social-item.css);

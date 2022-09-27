@@ -1,0 +1,7 @@
+.footer__mail {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: .05em;
+  color: var(--pg-gold);
+}

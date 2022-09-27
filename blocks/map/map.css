@@ -1,0 +1,15 @@
+.map {
+    position: relative;
+    padding: 0 0 180px 0;
+}
+
+.map::after {
+    content: '';
+    position: absolute;
+    top: 115px;
+    left: 255px;
+    background-image: url(../../../images/five-roman.png);
+    width: 268px;
+    height: 286px;
+    z-index: 0;
+}

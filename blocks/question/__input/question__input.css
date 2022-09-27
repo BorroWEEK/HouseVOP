@@ -1,0 +1,8 @@
+.question__input {
+    margin: 0;
+    width: 255px;
+}
+
+.question__input:nth-last-of-type(n+2) {
+    margin-left: 0;
+}

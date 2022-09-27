@@ -1,0 +1,10 @@
+.footer__list {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+.footer__list:nth-of-type(n+2) {
+  margin-left: 166px;
+}
